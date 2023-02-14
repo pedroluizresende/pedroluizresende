@@ -1,4 +1,5 @@
-### Hi there, I'm Pedro Resende 👋
+### Hi there, I'm Pedro Resende 👋 
+<img style="heigth: 100px; width: 100px"  alt="Cat Dev gif" src="https://media.tenor.com/N-fJ0Azh_ykAAAAC/cat-computer.gif" />
 
 <a href="https://www.linkedin.com/in/pedro-luiz-resende/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
