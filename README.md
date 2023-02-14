@@ -24,6 +24,11 @@ I live in Guarulhos-SP - Brazil, I'm 30 years old. I am currently studying FullS
 
 </ul>
 
+## Projects
+  ### Front-End:
+- [Recipes App](https://github.com/pedroluizresende/recipes-app)
+
+
 ## GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroluizresende&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluizresende&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
