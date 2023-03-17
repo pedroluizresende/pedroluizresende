@@ -17,6 +17,10 @@ I live in Guarulhos-SP - Brazil, I'm 30 years old. I am currently studying FullS
 ## Projects
   ### Front-End:
 - [Recipes App](https://github.com/pedroluizresende/recipes-app)
+- [Timer](https://github.com/pedroluizresende/timer)
+
+  ### Back-End:
+- [Talker Manager](https://github.com/pedroluizresende/talk-manager)
 
 
 ## GitHub Stats
