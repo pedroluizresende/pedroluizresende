@@ -21,8 +21,7 @@ I live in Guarulhos-SP - Brazil, I'm 30 years old. I am currently studying FullS
 
   ### Back-End:
 - [Talker Manager](https://github.com/pedroluizresende/talk-manager)
-- [Blogs Apit]([Talker Manager](https://github.com/pedroluizresende/talk-manager))
-
+- [Blogs Api](https://github.com/pedroluizresende/talk-manager)
 
 ## GitHub Stats
 
