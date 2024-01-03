@@ -19,12 +19,14 @@ I live in Guarulhos-SP - Brazil, I'm 30 years old. I am currently studying FullS
   ### Front-End:
 - [Recipes App](https://github.com/pedroluizresende/recipes-app)
 - [Timer](https://github.com/pedroluizresende/timer)
+- [Rateio Facil Frontend](https://github.com/pedroluizresende/rateio-facil-frontend)
 
   ### Back-End:
 - [Talker Manager](https://github.com/pedroluizresende/talk-manager)
 - [Blogs Api](https://github.com/pedroluizresende/talk-manager)
 - [Agrix](https://github.com/pedroluizresende/agrix)
 - [Localizador de Museus](https://github.com/pedroluizresende/localizador-de-museus)
+- [Rateio Fácil Backend](https://github.com/pedroluizresende/rateioFacil-backend)
 
 ## GitHub Stats
 
