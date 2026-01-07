@@ -1,33 +1,61 @@
-### Hi there, I'm Pedro Resende 👋 
+## 👋 Hi, I'm Pedro Resende
 
-<img style="heigth: 100px; width: 100px"  alt="Cat Dev gif" src="https://media.tenor.com/N-fJ0Azh_ykAAAAC/cat-computer.gif" />
+I'm a **Full Stack Developer** with experience building **SaaS platforms**, working on the creation of **frontend and backend modules** for production systems, especially in the **insurance (InsurTech)** domain.
 
-<a href="https://www.linkedin.com/in/pedro-luiz-resende/" target="blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pedroresendedev@gmail.com" target="blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+I currently work at a startup environment, actively participating in **plannings, technical discussions, and frontend restructuring**, focusing on code organization, maintainability, and delivering value to the product.
 
+🔗 [LinkedIn](https://www.linkedin.com/in/pedro-luiz-resende/)  
+📂 [GitHub](https://github.com/pedroluizresende)
 
+---
 
-## About me
+## 🛠️ Tech Stack
 
-I live in Guarulhos-SP - Brazil, I'm 30 years old. I am currently studying FullStack Web Development at [Trybe](https://www.betrybe.com/). I studied the fundamentals of web development modules and the Front-End module. I recently started the third module of the course, the Back-End module.
+### Frontend
+- React (Vite, Create React App)
+- Tailwind CSS
+- Styled Components
 
-## Main Technologies
-<img alt="node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img alt="express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+### Backend
+- Node.js
+- Java (Spring Boot)
+- Sequelize
+- RESTful APIs
 
+### Databases
+- MariaDB
+- MySQL
 
+---
 
-## Main Projects
-  ### Front-End:
-- [Recipes App](https://github.com/pedroluizresende/recipes-app)
-- [Timer](https://github.com/pedroluizresende/timer)
-- [Rateio Facil Frontend](https://github.com/pedroluizresende/rateio-facil-frontend)
+## 🚀 Featured Projects
 
-  ### Back-End:
-- [Talker Manager](https://github.com/pedroluizresende/talk-manager)
-- [Blogs Api](https://github.com/pedroluizresende/talk-manager)
-- [Agrix](https://github.com/pedroluizresende/agrix)
-- [Localizador de Museus](https://github.com/pedroluizresende/localizador-de-museus)
-- [Rateio Fácil Backend](https://github.com/pedroluizresende/rateioFacil-backend)
+> Projects focused on code organization, architecture, and real-world use cases.
 
-## GitHub Stats
+### 🔹 Full Stack
+- **Rateio Fácil**  
+  Full Stack application built with React and Node.js, focusing on business rules, modular architecture, and REST API integration.  
+  🔗 Frontend: https://github.com/pedroluizresende/rateio-facil-frontend  
+  🔗 Backend: https://github.com/pedroluizresende/rateioFacil-backend  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroluizresende&show_icons=true&theme=synthwave)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroluizresende&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### 🔹 Backend (REST APIs)
+- **Agrix**  
+  REST API developed with Java and Spring Boot, focused on layered architecture and clean separation of concerns.  
+  🔗 https://github.com/pedroluizresende/agrix  
+
+- **Museum Locator**  
+  Backend service for querying and locating museums, exposing RESTful endpoints.  
+  🔗 https://github.com/pedroluizresende/localizador-de-museus  
+
+---
+
+## 📌 What you’ll find here
+- Full Stack project structure
+- REST API development with Node.js and Spring Boot
+- Modular and maintainable codebases
+- Projects designed with a **product-oriented mindset**, not just academic exercises
+
+---
+
+## 📊 GitHub Stats
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroluizresende&show_icons=true&theme=default)
