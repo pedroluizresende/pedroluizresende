@@ -57,5 +57,3 @@ I currently work at a startup environment, actively participating in **plannings
 
 ---
 
-## 📊 GitHub Stats
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroluizresende&show_icons=true&theme=default)
